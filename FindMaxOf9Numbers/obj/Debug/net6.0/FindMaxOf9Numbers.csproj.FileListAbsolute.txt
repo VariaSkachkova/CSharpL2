@@ -1,0 +1,15 @@
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\bin\Debug\net6.0\FindMaxOf9Numbers.exe
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\bin\Debug\net6.0\FindMaxOf9Numbers.deps.json
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\bin\Debug\net6.0\FindMaxOf9Numbers.runtimeconfig.json
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\bin\Debug\net6.0\FindMaxOf9Numbers.dll
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\bin\Debug\net6.0\FindMaxOf9Numbers.pdb
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.csproj.AssemblyReference.cache
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.AssemblyInfoInputs.cache
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.AssemblyInfo.cs
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.csproj.CoreCompileInputs.cache
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.dll
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\refint\FindMaxOf9Numbers.dll
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.pdb
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\FindMaxOf9Numbers.genruntimeconfig.cache
+C:\Varia\Programming\C#L2\FindMaxOf9Numbers\obj\Debug\net6.0\ref\FindMaxOf9Numbers.dll
