@@ -1,0 +1,15 @@
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.csproj.AssemblyReference.cache
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.AssemblyInfoInputs.cache
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.AssemblyInfo.cs
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.csproj.CoreCompileInputs.cache
+C:\Varia\Programming\C#L2\FindMaxArray\bin\Debug\net6.0\FindMaxArray.exe
+C:\Varia\Programming\C#L2\FindMaxArray\bin\Debug\net6.0\FindMaxArray.deps.json
+C:\Varia\Programming\C#L2\FindMaxArray\bin\Debug\net6.0\FindMaxArray.runtimeconfig.json
+C:\Varia\Programming\C#L2\FindMaxArray\bin\Debug\net6.0\FindMaxArray.dll
+C:\Varia\Programming\C#L2\FindMaxArray\bin\Debug\net6.0\FindMaxArray.pdb
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.dll
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\refint\FindMaxArray.dll
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.pdb
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\FindMaxArray.genruntimeconfig.cache
+C:\Varia\Programming\C#L2\FindMaxArray\obj\Debug\net6.0\ref\FindMaxArray.dll
