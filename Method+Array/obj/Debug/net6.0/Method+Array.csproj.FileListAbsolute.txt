@@ -1,0 +1,15 @@
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.csproj.AssemblyReference.cache
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.AssemblyInfoInputs.cache
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.AssemblyInfo.cs
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.csproj.CoreCompileInputs.cache
+C:\Varia\Programming\C#L2\Method+Array\bin\Debug\net6.0\Method+Array.exe
+C:\Varia\Programming\C#L2\Method+Array\bin\Debug\net6.0\Method+Array.deps.json
+C:\Varia\Programming\C#L2\Method+Array\bin\Debug\net6.0\Method+Array.runtimeconfig.json
+C:\Varia\Programming\C#L2\Method+Array\bin\Debug\net6.0\Method+Array.dll
+C:\Varia\Programming\C#L2\Method+Array\bin\Debug\net6.0\Method+Array.pdb
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.dll
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\refint\Method+Array.dll
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.pdb
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\Method+Array.genruntimeconfig.cache
+C:\Varia\Programming\C#L2\Method+Array\obj\Debug\net6.0\ref\Method+Array.dll
