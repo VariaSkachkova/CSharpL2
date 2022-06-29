@@ -1,0 +1,15 @@
+C:\Varia\Programming\C#L2\FindIndexPosition\bin\Debug\net6.0\FindIndexPosition.exe
+C:\Varia\Programming\C#L2\FindIndexPosition\bin\Debug\net6.0\FindIndexPosition.deps.json
+C:\Varia\Programming\C#L2\FindIndexPosition\bin\Debug\net6.0\FindIndexPosition.runtimeconfig.json
+C:\Varia\Programming\C#L2\FindIndexPosition\bin\Debug\net6.0\FindIndexPosition.dll
+C:\Varia\Programming\C#L2\FindIndexPosition\bin\Debug\net6.0\FindIndexPosition.pdb
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.csproj.AssemblyReference.cache
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.AssemblyInfoInputs.cache
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.AssemblyInfo.cs
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.csproj.CoreCompileInputs.cache
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.dll
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\refint\FindIndexPosition.dll
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.pdb
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\FindIndexPosition.genruntimeconfig.cache
+C:\Varia\Programming\C#L2\FindIndexPosition\obj\Debug\net6.0\ref\FindIndexPosition.dll
